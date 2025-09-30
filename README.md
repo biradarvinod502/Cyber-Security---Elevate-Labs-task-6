@@ -1,1 +1,25 @@
 # Cyber-Security---Elevate-Labs-task-6
+
+Task 6 – Create a Strong Password and Evaluate Its Strength
+Objective:
+Create multiple passwords, evaluate their strength using online/offline tools, and summarize
+findings and best practices.
+
+Steps performed:
+1. Generated six test passwords with varying complexity (weak to strong and passphrases).
+2. Tested each password using passwordmeter.com and offline zxcvbn (where possible).
+3. Recorded scores, feedback, and screenshots for evidence.
+   
+Key findings:
+- Weak passwords (short, common words) scored poorly and received feedback to add length and
+symbols.
+- Passphrases and long random strings scored much better; passphrases are easier to remember
+and still strong if long/unique.
+- Increasing length has a greater impact on strength than adding single symbols.
+  
+Common attacks:
+- Brute force, dictionary attacks, rainbow tables, credential stuffing, phishing.
+
+Recommendations:
+- Use a password manager, enable MFA, use unique passwords per account, and prefer
+passphrases of 12+ characters.
